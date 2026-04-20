@@ -1,7 +1,7 @@
 // pages/admin/ApplicationDetails.jsx
 import { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import API from "../../api/Auth";
+import API from "../../api/api";
 import {
   FaArrowLeft,
   FaCheckCircle,

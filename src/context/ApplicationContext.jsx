@@ -1,7 +1,7 @@
 /* eslint-disable react-refresh/only-export-components */
 // context/ApplicationContext.jsx
 import { createContext, useContext, useEffect, useState } from "react";
-import API from "../api/Auth";
+import API from "../api/api";
 
 const AppContext = createContext();
 

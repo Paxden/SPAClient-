@@ -1,6 +1,6 @@
 // pages/admin/Overview.jsx
 import { useEffect, useState } from "react";
-import API from "../../api/Auth";
+import API from "../../api/api";
 import {
   FaUsers,
   FaClock,

@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 // pages/admin/Applications.jsx
 import { useEffect, useState } from "react";
-import API from "../../api/Auth";
+import API from "../../api/api";
 import { useNavigate } from "react-router-dom";
 import {
   FaSearch,
